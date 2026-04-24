@@ -1,0 +1,10 @@
+{
+  "patient_id": "string",
+  "timestamp": "datetime",
+  "signals": ["string"],
+  "risk": "LOW | MEDIUM | HIGH",
+  "trace": ["string"],
+  "ai_explanation": "string",
+  "trace_id": "string",
+  "source": "string"
+}
